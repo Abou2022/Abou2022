@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects utilizing Socket.io & Phaser
+- 🔭 I’m currently working on projects 
 - 🌱 I’m currently learning React efficiency optimizations...
 - 💬 Ask me about my dog Sammy :dog:
 - 📫 How to reach me: syllabakary2002@gmail.com
 - 😄 Pronouns: (he/his)
-- ⚡ Fun fact: I had a partial scholarship to culinary school and (Johnson and Wales) coming out of high school.
+- ⚡ Fun fact:
 
 <div >
   
