@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects 
-- 🌱 I’m currently learning React efficiency optimizations...
-- 💬 Ask me about my dog Sammy :dog:
-- 📫 How to reach me: syllabakary2002@gmail.com
-- 😄 Pronouns: (he/his)
-- ⚡ Fun fact:
-
+Full-stack Software Engineer with previous experience in Geography Information systems (QGIS, ArcView, ArcGIS, remote sensing satellites, Mapping), Transportation, and Urban Development Management. Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.
 <div >
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abou2022&show_icons=true&theme=github_dark&count_private=true&bg_color=FFFFFF00&hide_border=true" width="500" />
