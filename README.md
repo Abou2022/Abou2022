@@ -6,7 +6,7 @@ Full-stack Software Engineer with previous experience in Geography Information s
 
 ## Feel free to reach out🌎 [email](mailto:syllabakary2002@gmail.com)
 
-Check out my LinkedIn:  https://www.linkedin.com/in/Abou2022/ <br>
+Check out my LinkedIn:  www.linkedin.com/in/bakary-sylla <br>
 ![Abou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abou2022&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abou2022&layout=compact&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
